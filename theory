@@ -1,0 +1,26 @@
+CORS policy
+npm i cors
+
+cd frontend
+npm create vite@latest
+npm i
+
+install tailwind css with vite-->
+2)
+3)tailwind.config.js <-- content
+4)delete contents of index.css   <-- paste 4
+5)del App.css
+6)A pp.jsx del contents, type rafce, es7+
+
+npm i react-router-dom
+
+main.jsx --> import {BrowserRouter} fron 'react-router-dom'
+change div as well
+
+App.jsx --> import {Routes, Route} from 'react-router-dom'
+
+npm i axios react react-icons
+
+
+npm i notistack
+
